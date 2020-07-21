@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Handler for requests to Lambda function. OK
+ * Handler for requests to Lambda function. OKOK
  */
 public class HelloWorldHandler implements RequestHandler<Object, Object> {
 
